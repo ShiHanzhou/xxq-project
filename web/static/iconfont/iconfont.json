@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5110166",
+      "name": "message",
+      "font_class": "xiaoxi-control",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "9960585",
+      "name": "see user",
+      "font_class": "seeuser",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "12636782",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "21617734",
+      "name": "Lock",
+      "font_class": "suo",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    }
+  ]
+}

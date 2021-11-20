@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_loginactivity_top"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/color_minefragment_top">
+
+        <ImageView
+            android:id="@+id/iv_image_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_left_back"
+            android:clickable="true"
+            android:onClick="onClick" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/ImageListView1"
+        android:layout_width="match_parent"
+        android:layout_height="673dp"></ListView><![CDATA[
+
+
+    android:id="@+id/rl_loginactivity_top"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/color_minefragment_top">
+
+
+
+
+]]>
+</LinearLayout>
